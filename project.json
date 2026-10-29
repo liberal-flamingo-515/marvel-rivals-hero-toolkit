@@ -1,0 +1,22 @@
+{
+  "name": "marvel-rivals-hero-toolkit",
+  "displayName": "Marvel Rivals Hero Toolkit",
+  "programType": "hero-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Hero notes",
+    "Team roles",
+    "Shortcut groups"
+  ],
+  "topics": [
+    "marvel-rivals-hero-toolkit",
+    "marvel-rivals-tools",
+    "marvel-rivals-menu",
+    "marvel-rivals-settings",
+    "marvel-rivals-configs",
+    "marvel-rivals-hero-notes",
+    "marvel-rivals-team-roles"
+  ]
+}
